@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\functions\\customerfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:functions\\customerfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\repositories\\inmemorycustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:repositories\\inmemorycustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\functions\\productfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:functions\\productfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|c:\\users\\spmuk\\downloads\\azure-func-crud\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0AA4CC-8583-7805-561D-145AF4181169}|FunctionApp.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:50:41.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:50:21.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:48:30.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:48:19.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Repositories\\InMemoryProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InMemoryProductRepository.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Repositories\\InMemoryProductRepository.cs",
+              "RelativeToolTip": "Repositories\\InMemoryProductRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewBkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:47:41.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Repositories\\InMemoryCustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InMemoryCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Repositories\\InMemoryCustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\InMemoryCustomerRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAywBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:47:32.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:47:23.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Functions\\ProductFunctions.cs",
+              "RelativeDocumentMoniker": "Functions\\ProductFunctions.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Functions\\ProductFunctions.cs",
+              "RelativeToolTip": "Functions\\ProductFunctions.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAewDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:47:16.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Functions\\CustomerFunctions.cs",
+              "RelativeDocumentMoniker": "Functions\\CustomerFunctions.cs",
+              "ToolTip": "C:\\Users\\spmuk\\Downloads\\azure-func-crud\\Functions\\CustomerFunctions.cs",
+              "RelativeToolTip": "Functions\\CustomerFunctions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:46:57.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
